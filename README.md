@@ -4,8 +4,7 @@ QuickDine is a modern, premium restaurant table booking and reservation platform
 
 🌐 **Live Website:** https://quickdinner.pages.dev/ **
 
-💻 **GitHub Repository:** https://github.com/erkuldeepkushwah/quickdinner
----
+
 
 ## ✨ Features
 
